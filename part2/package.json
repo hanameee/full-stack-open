@@ -1,0 +1,19 @@
+{
+  "name": "part2",
+  "version": "1.0.0",
+  "description": "https://fullstackopen.com/en/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanameee/full-stack-open.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanameee/full-stack-open/issues"
+  },
+  "homepage": "https://github.com/hanameee/full-stack-open#readme"
+}
